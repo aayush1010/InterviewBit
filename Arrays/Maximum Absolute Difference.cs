@@ -5,6 +5,12 @@ namespace InterviewBit.Arrays
 {
     class Maximum_Absolute_Difference
     {
+        // |a[i] - a[j]| + |i-j| can be written in the form of
+        // 1. a[i] - a[j] + i - j => (a[i] + i) - (a[j] + j)
+        // 2. a[i] - a[j] - i + j => (a[i] - i) - (a[j] - j)
+        // so for the max difference, (a[i] + i) should be max 
+        // and (a[j] + j) should be min, or (a[i] - i) should be max
+        // and (a[j] - j) should be min
         public int maxArr(List<int> A)
         {
             int length = A.Count;
