@@ -14,10 +14,11 @@ namespace InterviewBit
             //Pascal_Triangle p = new Pascal_Triangle();
             //p.solve(4);
 
-            MaxSpProd mp = new MaxSpProd();
-            mp.maxSpecialProduct(new List<int> { 5, 9, 6, 8, 6, 4, 6, 9, 5, 4, 9 });
+            //MaxSpProd mp = new MaxSpProd();
+            //mp.maxSpecialProduct(new List<int> { 5, 9, 6, 8, 6, 4, 6, 9, 5, 4, 9 });
 
-
+            Next_Permutation nx = new Next_Permutation();
+            nx.nextPermutation(new List<int> { 5, 3, 4, 9, 7, 6 });
         }
     }
 }
