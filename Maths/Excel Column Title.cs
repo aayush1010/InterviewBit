@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace InterviewBit.Math
+namespace InterviewBit.Maths
 {
     class Excel_Column_Title
     {

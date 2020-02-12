@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace InterviewBit.Math
+namespace InterviewBit.Maths
 {
     class Sum_of_pairwise_Hamming_Distance
     {

@@ -1,4 +1,4 @@
-﻿namespace InterviewBit.Math
+﻿namespace InterviewBit.Maths
 {
     class Excel_Column_Number
     {
