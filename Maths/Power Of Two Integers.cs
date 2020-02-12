@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace InterviewBit.Math
+namespace InterviewBit.Maths
 {
     class Power_Of_Two_Integers
     {

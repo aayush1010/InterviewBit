@@ -1,2 +1,3 @@
 D:\test\InterviewBit\InterviewBit\obj\Debug\netcoreapp3.0\InterviewBit.AssemblyInfoInputs.cache
 D:\test\InterviewBit\InterviewBit\obj\Debug\netcoreapp3.0\InterviewBit.AssemblyInfo.cs
+D:\test\InterviewBit\InterviewBit\obj\Debug\netcoreapp3.0\InterviewBit.csprojAssemblyReference.cache
