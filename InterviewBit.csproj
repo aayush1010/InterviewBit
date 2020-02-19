@@ -5,4 +5,12 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Binary Search\Square Root of Integer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Binary Search\Square Root of Integer.cs" />
+  </ItemGroup>
+
 </Project>
