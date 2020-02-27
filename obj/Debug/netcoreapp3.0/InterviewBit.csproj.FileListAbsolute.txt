@@ -1,3 +1,11 @@
 D:\test\InterviewBit\InterviewBit\obj\Debug\netcoreapp3.0\InterviewBit.AssemblyInfoInputs.cache
 D:\test\InterviewBit\InterviewBit\obj\Debug\netcoreapp3.0\InterviewBit.AssemblyInfo.cs
 D:\test\InterviewBit\InterviewBit\obj\Debug\netcoreapp3.0\InterviewBit.csprojAssemblyReference.cache
+D:\test\InterviewBit\InterviewBit\bin\Debug\netcoreapp3.0\InterviewBit.exe
+D:\test\InterviewBit\InterviewBit\bin\Debug\netcoreapp3.0\InterviewBit.deps.json
+D:\test\InterviewBit\InterviewBit\bin\Debug\netcoreapp3.0\InterviewBit.runtimeconfig.json
+D:\test\InterviewBit\InterviewBit\bin\Debug\netcoreapp3.0\InterviewBit.runtimeconfig.dev.json
+D:\test\InterviewBit\InterviewBit\bin\Debug\netcoreapp3.0\InterviewBit.dll
+D:\test\InterviewBit\InterviewBit\bin\Debug\netcoreapp3.0\InterviewBit.pdb
+D:\test\InterviewBit\InterviewBit\obj\Debug\netcoreapp3.0\InterviewBit.dll
+D:\test\InterviewBit\InterviewBit\obj\Debug\netcoreapp3.0\InterviewBit.pdb

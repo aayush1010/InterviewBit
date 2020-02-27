@@ -1,5 +1,6 @@
 ﻿using InterviewBit.Arrays;
 using InterviewBit.Maths;
+using InterviewBit.Strings;
 using System.Collections.Generic;
 
 namespace InterviewBit
@@ -21,8 +22,11 @@ namespace InterviewBit
             //Next_Permutation nx = new Next_Permutation();
             //nx.nextPermutation(new List<int> { 5, 3, 4, 9, 7, 6 });
 
-            Sorted_Permutation_Rank s = new Sorted_Permutation_Rank();
-            s.findRank("string");
+            //Sorted_Permutation_Rank s = new Sorted_Permutation_Rank();
+            //s.findRank("string");
+
+            Minimum_Char_for_Palindromic_string m = new Minimum_Char_for_Palindromic_string();
+            m.solve("banana");
         }
     }
 }
